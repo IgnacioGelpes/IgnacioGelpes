@@ -64,7 +64,7 @@
 
 <table>
 <tr>
-<td width="100%">
+<td width="50%">
 <h3 align="center"></h3>
 <div align="center">
 <a href=""https://ignaciogelpes.github.io/" target="_blank"><img src="" width="400" alt=""></a>
