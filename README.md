@@ -14,7 +14,7 @@
 <td width="50%">
 <h3 align="center"></h3>
 <div align="center">
-<a href=""[https://github.com/](https://github.com/IgnacioGelpes/web_de_productos)" target="_blank"><img src="" width="400" alt=""></a>
+<a href=""https://github.com/IgnacioGelpes/web_de_productos" target="_blank"><img src="" width="400" alt=""></a>
 <p>
 <a href="" target="_blank">
 <img src="">
