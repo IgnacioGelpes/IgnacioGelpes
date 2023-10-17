@@ -41,6 +41,25 @@
 </div>                                                             
 </table>                                                                                 
 </div>
+
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center"></h3>
+<div align="center">                                       
+<a href=""https://drive.google.com/file/d/1UldTd7eyxU6A8beclD30J9Q7PAeY19KY/view?usp=drive_link" target="_blank"><img src="" width="400" alt=""></a>
+<br>
+<p>
+<a href="https://drive.google.com/file/d/1UldTd7eyxU6A8beclD30J9Q7PAeY19KY/view?usp=drive_link" target="_blank">
+<img src="images/normal.jpg">
+</a>
+
+</p>
+</p>Proyecto de juego 2d.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
 <br>
 
 <table>
