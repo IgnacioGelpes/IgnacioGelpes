@@ -32,10 +32,10 @@
                <br>
 <h3 align="center"></h3>
 <div align="center">                                       
-<a href="" target="_blank"><img src="" width="400" alt=""></a>
+<a href="https://drive.google.com/drive/folders/15XDVpihagJNfB6bkhCeoM9MFjNlV6Ohq?usp=drive_link" target="_blank"><img src="" width="400" alt=""></a>
 <br>
 <p>
-<a href="" target="_blank">
+<a href="https://drive.google.com/drive/folders/15XDVpihagJNfB6bkhCeoM9MFjNlV6Ohq?usp=drive_link" target="_blank">
 <img src="">
 </a>
 <a href="" target="_blank">
