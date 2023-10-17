@@ -48,10 +48,10 @@
 <td width="100%">
 <h3 align="center"></h3>
 <div align="center">
-<a href=""https://ignaciogelpes.github.io/" target="_blank"><img src="images/normal.jpg" width="400" alt=""></a>
+<a href=""https://ignaciogelpes.github.io/" target="_blank"><img src="" width="400" alt=""></a>
 <p>
-<a href="" target="_blank">
-<img src="">
+<a href="https://ignaciogelpes.github.io/" target="_blank">
+<img src="images/normal.jpg">
 </a>
 <a href="" target="_blank">
 <img src="">
