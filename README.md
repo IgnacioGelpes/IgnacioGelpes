@@ -16,9 +16,6 @@
 <div align="center">
 <a href=""https://github.com/IgnacioGelpes/web_de_productos" target="_blank"><img src="" width="400" alt=""></a>
 <p>
-<a href="" target="_blank">
-<img src="">
-</a>
 <a href="https://github.com/IgnacioGelpes/web_de_productos" target="_blank">
 <img src="images/java.webp">
 </a>
@@ -32,17 +29,15 @@
                <br>
 <h3 align="center"></h3>
 <div align="center">                                       
-<a href="https://drive.google.com/drive/folders/15XDVpihagJNfB6bkhCeoM9MFjNlV6Ohq?usp=drive_link" target="_blank"><img src="" width="400" alt=""></a>
+<a href="https://drive.google.com/drive/folders/15XDVpihagJNfB6bkhCeoM9MFjNlV6Ohq?usp=drive_link" target="_blank"><img src="images/unity.jpg" width="400" alt=""></a>
 <br>
 <p>
 <a href="https://drive.google.com/drive/folders/15XDVpihagJNfB6bkhCeoM9MFjNlV6Ohq?usp=drive_link" target="_blank">
-<img src="">
+<img src="images/unity.jpg">
 </a>
-<a href="" target="_blank">
-<img src="">
-</a>
+
 </p>
-</p>.</p>
+</p>Proyecto practica Unity.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
